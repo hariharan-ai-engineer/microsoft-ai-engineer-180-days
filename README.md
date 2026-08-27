@@ -99,3 +99,25 @@ Become a job-ready AI Engineer and build real-world AI solutions.
 - 🧠 Building Real-World AI Projects
 - 📚 Learning and Improving Every Day
 - 🚀 Goal: Become a Professional AI Engineer
+
+## 🚀 AI Engineering Projects
+
+### 1. AI Resume Analyzer
+- Built an AI-based resume analysis system
+- Extracts skills and compares them with job requirements
+- Tech: Python, NLP, Machine Learning
+
+### 2. AI Customer Support Chatbot
+- Built a chatbot to answer customer queries
+- Uses LLM and prompt engineering
+- Tech: Python, GenAI, LLM, API
+
+### 3. AI Disease Prediction System
+- Predicts possible diseases from input symptoms
+- Includes data preprocessing and ML model
+- Tech: Python, Pandas, Scikit-learn
+
+### 4. AI Cybersecurity Assistant
+- Detects suspicious activity and helps analyze security logs
+- Uses AI for threat analysis
+- Tech: Python, Machine Learning, GenAI
