@@ -52,3 +52,42 @@ Become a job-ready AI Engineer and build real-world AI solutions.
 ---
 
 **Learning every day. Building every day. Becoming an AI Engineer. 💪🤖**
+
+## 🛠️ Skills I'm Learning
+
+### 💻 Programming & Development
+- Python
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Git & GitHub
+
+### 📊 Data & Databases
+- SQL
+- Pandas
+- NumPy
+- Data Visualization
+
+### 🤖 Machine Learning & Deep Learning
+- Machine Learning
+- Scikit-learn
+- Deep Learning
+- Neural Networks
+- TensorFlow / PyTorch
+
+### 🧠 Generative AI & LLMs
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+- LangChain
+- Vector Databases
+
+### ☁️ Cloud & AI Engineering
+- Microsoft Azure
+- Azure AI Services
+- Azure AI Foundry
+- AI Model Deployment
+- MLOps Fundamentals
+
+### 🚀 Currently Building Towards
+*Becoming a skilled AI Engineer through 180 days of consistent learning and project building.*
