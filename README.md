@@ -91,3 +91,11 @@ Become a job-ready AI Engineer and build real-world AI solutions.
 
 ### 🚀 Currently Building Towards
 *Becoming a skilled AI Engineer through 180 days of consistent learning and project building.*
+
+## 🚀 My AI Engineering Journey
+
+- 🎯 180 Days AI Engineering Learning Journey
+- 🐍 Learning Python, AI & Machine Learning
+- 🧠 Building Real-World AI Projects
+- 📚 Learning and Improving Every Day
+- 🚀 Goal: Become a Professional AI Engineer
